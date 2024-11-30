@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: url("./assets/desk1.png");
+  background: url("./assets/photo_2024-11-30_02-06-27.jpg") no-repeat;
+  background-size: cover;
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
   pointer-events: none;
